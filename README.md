@@ -1,4 +1,8 @@
 ### Hi there 👋
+#### I'm a student Full-Stack Developer with a wide array of passions
+
+Currently working in [UGA's MSC Lab](https://yunlishao.github.io/), where I'm contributing to the [CDASim project](https://github.com/usdot-fhwa-stol/cdasim) for the US Govt. 🚗
+
 
 <!--
 **willv678/willv678** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,5 +16,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
+
+
 - ⚡ Fun fact: ...
 -->
