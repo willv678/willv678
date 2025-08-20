@@ -1,7 +1,7 @@
 ### Hi there 👋
 #### I'm a student Full-Stack Developer with a wide array of passions
 
-Currently working in [UGA's MSC Lab](https://yunlishao.github.io/), where I'm contributing to the [CDASim project](https://github.com/usdot-fhwa-stol/cdasim) for the US Govt. 🚗
+Currently working in [UGA's MSC Lab](https://yunlishao.github.io/), where I'm contributing to the [CDASim project](https://github.com/usdot-fhwa-stol/cdasim) for the US Federal Highway Administration 🚗
 
 
 <!--
