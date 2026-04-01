@@ -1,9 +1,11 @@
 ### Hi there 👋
-#### I'm a student Full-Stack Developer with a wide array of passions
+#### I'm a student Software Engineer & Researcher at UGA
 
-Currently working in [UGA's MSC Lab](https://yunlishao.github.io/), where I'm contributing to the [CDASim project](https://github.com/usdot-fhwa-stol/cdasim) for the US Federal Highway Administration 🚗
+* **Incoming Software Engineering Intern** at **Roblox**
+* **Research Assistant** at [UGA's MSC Lab](https://yunlishao.github.io/), working on machine learning and sensor fusion for autonomous vehicle research
+* **Former SWE** at **Leidos**, where I migrated the [CDASim project](https://github.com/usdot-fhwa-stol/cdasim) to ROS 2 for the Federal Highway Administration
 
-
+[willvarner.me](https://willvarner.me) | [LinkedIn](https://linkedin.com/in/will-varner)
 <!--
 **willv678/willv678** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
