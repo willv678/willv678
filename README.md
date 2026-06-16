@@ -1,7 +1,7 @@
 ### Hi there 👋
 #### I'm a student Software Engineer & Researcher at UGA
 
-* **Incoming Software Engineering Intern** at **Roblox**
+* **Currently a Software Engineering Intern** at **Roblox**
 * **Research Assistant** at [UGA's MSC Lab](https://yunlishao.github.io/), working on machine learning and sensor fusion for autonomous vehicle research
 * **Former SWE** at **Leidos**, where I migrated the [CDASim project](https://github.com/usdot-fhwa-stol/cdasim) to ROS 2 for the Federal Highway Administration
 
